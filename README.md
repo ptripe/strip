@@ -1,0 +1,2 @@
+# strip
+this tea projects 
